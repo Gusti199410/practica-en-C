@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1754576521 source:c:\users\thebestgus\desktop\practica27_7\practica\header.c
+	"header.h"
+	"vector.h"
+
+1754576428 c:\users\thebestgus\desktop\practica27_7\practica\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1754572176 source:c:\users\thebestgus\desktop\practica27_7\practica\vector.c
+	"vector.h"
+
+1754576492 c:\users\thebestgus\desktop\practica27_7\practica\vector.h
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1754576029 source:c:\users\thebestgus\desktop\practica27_7\practica\main.c
+	"header.h"
+	"vector.h"
+
+1754518239 source:c:\users\thebestgus\desktop\practica27_7\practica\comparar.c
+
+1754572233 source:c:\users\thebestgus\desktop\practica27_7\practica\ventas_minoristas.c
+	"ventas_minorista.h"
+
+1754572247 c:\users\thebestgus\desktop\practica27_7\practica\ventas_minorista.h
+	"header.h"
+	"vector.h"
+
